@@ -1,0 +1,3 @@
+ENV['client_chat_token']  = 'oauth:seutokenaki'
+ENV['client_id']          = 'appclientid'
+ENV['client_secret']      = 'appclientsecrete'
